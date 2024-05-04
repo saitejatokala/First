@@ -1,0 +1,3 @@
+https://github.com/sndpoffcl/BMS_LLD_Dec23/
+
+https://auth0.com/blog/hashing-in-action-understanding-bcrypt/
